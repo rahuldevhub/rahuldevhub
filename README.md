@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://png.pngtree.com/template/20220428/ourmid/pngtree-hacker-typography-banner-with-cyber-attack-symbols-flat-image_1275293.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Expert in MERN Stack as well as Designer Developer and Freelancer</h3>
 
@@ -11,9 +11,14 @@
 <p align="left"> <a href="https://twitter.com/rahulriyaz_" target="blank"><img src="https://img.shields.io/twitter/follow/thek4rthi?logo=twitter&style=for-the-badge" alt="thek4rthi" /></a> </p>
 
 - 🔭 I’m currently working on **Development**
+- 
 - 🌱 I’m currently learning Everything 🤣
+- 
 - 📝 I regularly write Post on [Instagram](https://www.instagram.com/iamrahul.r1/)
+- 
 - 💬 Ask me about **Web Development, App Development, and Design**
+- 
 - 📫 How to reach me **iamrahulrajendran01@gmail.com**
+- 
 - ⚡ Eat 🍔 Sleep 😴 Code 💻 Repeat 🔁
   
