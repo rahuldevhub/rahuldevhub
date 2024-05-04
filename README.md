@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://www.instagram.com/iamrahul.r1/" alt="iamrahul.r1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rahulriyaz_" target="blank"><img src="https://img.shields.io/twitter/follow/thek4rthi?logo=twitter&style=for-the-badge" alt="thek4rthi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rahulriyaz_" target="blank"><img src="https://twitter.com/rahulriyaz_" alt="thek4rthi" /></a> </p>
 
 - 🔭 I’m currently working on **Development**
 - 
