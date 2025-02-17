@@ -77,4 +77,10 @@
     <img src="https://img.shields.io/badge/Tails%20OS-000000?style=for-the-badge&logo=tails&logoColor=56347C" alt="Tails OS" />
     <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=0A0A0A" alt="BlackArch" />
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" /> -->
-</div> <br>
+</div> <be>
+
+
+
+
+## 🎯 Let's Collaborate!
+I'm always open to **Design and Development Collaborations, Freelancing projects, and knowledge sharing**.Whether it’s **building scalable web apps, refining UI/UX, or exploring new tech**, let’s connect and create something amazing! 🚀<br>
