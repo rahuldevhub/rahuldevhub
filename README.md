@@ -38,7 +38,7 @@
 
 ## 🛠️ Technical Skills
 
-### 🛡️ **Cybersecurity & Hacking Tools**  
+
 <div align="left">
 <!--     <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burp-suite&logoColor=FF6633" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=008C8C" alt="Metasploit" />
@@ -68,7 +68,6 @@
 </div>
 
 
-### 🖥️ **Operating Systems**
 <div align="left">
 <!--     <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94" alt="Kali Linux" />
     <img src="https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=parrot&logoColor=2E8E8F" alt="Parrot OS" />
