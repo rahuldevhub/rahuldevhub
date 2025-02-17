@@ -79,8 +79,7 @@
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" /> -->
 </div> <be>
 
+---
 
-
-
-## 🎯 Let's Collaborate!
-I'm always open to **Design and Development Collaborations, Freelancing projects, and knowledge sharing**.Whether it’s **building scalable web apps, refining UI/UX, or exploring new tech**, let’s connect and create something amazing! 🚀<br>
+## 🎯 Let’s Build Something Great!
+Passionate about **Design, Development, and Freelancing?** Let’s collaborate on **innovative web solutions, seamless UI/UX, and cutting-edge tech.** Whether it’s a new project, brainstorming ideas, or just tech talk—I'm always up for it! 🚀
