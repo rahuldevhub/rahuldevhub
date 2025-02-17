@@ -3,12 +3,13 @@
 # 👋 Welcome to My Profile  
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- 
-- 🔍 **I am Rahul Rajendran:** Designer / Developer / Freelancer
-- 🔍 **Currently Focusing On:** MERN Stack / UI/UX Design  
-- 📖 **Learning:**  Python 
-- 💬 **Ask Me About:** Design, Full-stack Dev, Freelancing  
-- 📩 **Reach Me At:** iamrahulrajendran01@gmail.com
+
+
+- 🚀 **I’m Rahul Rajendran –** Designer | Developer | Freelancer
+- 🔍 **Building with -** MERN Stack | UI/UX Design  
+- 📖 **Exploring -**  Python 
+- 💬 **Talk to me about -** Design | Full-Stack Dev | Freelancing  
+- 📩 **Let’s Connect:** iamrahulrajendran01@gmail.com
 - ⚡ **Motto:** Eat 🍔 | Sleep 😴 | Code 💻 | Repeat 🔁  <br><br><br>
 
 
