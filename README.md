@@ -8,7 +8,7 @@
 - 🚀 **I’m Rahul Rajendran –** Designer | Developer | Freelancer
 - 🔍 **Building with -** MERN Stack | UI/UX Design  
 - 📖 **Exploring -**  Python & Emerging Tech
-- 🎯 **Expertise in -** Web & App Development | Visual Design | Frontend & Backend
+- 🎯 **Expertise in -** Web & App Dev | Visual Design | Frontend & Backend
 - 💬 **Talk to me about -** Design | Full-Stack Dev | Freelancing  
 - 📩 **Let’s Connect:** iamrahulrajendran01@gmail.com
 - ⚡ **Motto:** Eat 🍔 | Sleep 😴 | Code 💻 | Repeat 🔁  <br><br><br>
